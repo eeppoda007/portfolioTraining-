@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "png-transparent-rainbow-sun-and-cloud-cloud-rain-rainbow-clouds-and-sun-computer-wallpaper-cloud-computing-cartoon-sun.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "png-transparent-rainbow-sun-and-cloud-cloud-rain-rainbow-clouds-and-sun-computer-wallpaper-cloud-computing-cartoon-sun@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "png-transparent-rainbow-sun-and-cloud-cloud-rain-rainbow-clouds-and-sun-computer-wallpaper-cloud-computing-cartoon-sun@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
